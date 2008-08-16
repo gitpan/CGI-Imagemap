@@ -1,7 +1,9 @@
 Revision history for Perl extension CGI::Imagemap.
 
-1.00  Sat Mar  2 07:11:28 1996
-	original version, adapted by Mike Heins from imagemap.pl by V. Khera
+2.01  Sat Aug 16 10:54:24 EDT 2008
+	Reupload due to PAUSE ignoring the corrupted (but usable) tarball
+
+	Add ismap.cgi to MAINFEST
 
 2.00  Tue Aug  5 00:00:42 UTC 2003
 	Modernized by Jerrad Pierce; no more string eval, use strict.
@@ -13,3 +15,6 @@ Revision history for Perl extension CGI::Imagemap.
 	Removed dependency on Carp, now throws exceptions.
 
 	Added oval support.
+
+1.00  Sat Mar  2 07:11:28 1996
+	original version, adapted by Mike Heins from imagemap.pl by V. Khera
